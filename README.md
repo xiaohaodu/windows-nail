@@ -1,4 +1,8 @@
-# Windows Nail - Windows 窗口置顶工具
+# 📦 [已存档] Windows Nail - Windows 窗口置顶工具
+
+⚠️ **此仓库已存档** - 推荐使用优化版本 **[windows-nail-for-builder](https://github.com/xiaohaodu/windows-nail-for-builder)**
+
+---
 
 一个简单易用的 Windows 窗口置顶工具，帮助您快速将任意窗口置顶显示。
 
